@@ -59,5 +59,3 @@ returns.
 The cash flows are synthetic and the assumptions are illustrative, so the figures are not a real deal.
 Depreciation and tax are simplified (straight-line, single rate; no ITC/PTC or MACRS/CCA timing), debt is
 a level annuity rather than fully sculpted to a target DSCR, and the merchant tail is a flat assumption.
-The point is to show I can build and audit a project-finance model end to end, pull the returns an IC
-needs, and frame the decision, in Excel and in code.
